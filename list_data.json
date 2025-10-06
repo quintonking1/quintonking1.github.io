@@ -1,22 +1,24 @@
-[
-  {
-    "name": "Lin Asian",
-    "location": "Austin, Tx",
-    "rating": 5
-  },
-  {
-    "name": "Cheeseboard Pizza",
-    "location": "Berkeley, Ca",
-    "rating": 4.5
-  },
-  {
-    "name": "Ramen Tatsuya",
-    "location": "Austin, Tx",
-    "rating": 4
-  },
-  {
-    "name": "Udon Mugizo",
-    "location": "San Jose, Ca",
-    "rating": 3.5
-  }
-]
+{
+	"restaurants": [
+		{
+			"Name": "Lin Asian",
+			"Location": "Austin, Tx",
+			"Rating": 5
+		},
+		{
+			"Name": "Cheeseboard Pizza",
+			"Location": "Berkeley, Ca",
+			"Rating": 4.5
+		},
+		{
+			"Name": "Ramen Tatsuya",
+			"Location": "Austin, Tx",
+			"Rating": 4
+		},
+		{
+			"Name": "Udon Mugizo",
+			"Location": "San Jose, Ca",
+			"Rating": 3.5
+		}
+	]
+}
